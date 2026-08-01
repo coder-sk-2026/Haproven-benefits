@@ -1,0 +1,57 @@
+[
+  {
+    "requestId": "REQ-INS-0001",
+
+    "studentId": "STD-1001",
+
+    "studentName": "Rahul Kumar",
+    "email": "rahul@example.com",
+    "mobile": "9876543210",
+
+    "institute": {
+      "name": "ABC Coaching Institute",
+      "city": "Patna",
+      "state": "Bihar"
+    },
+
+    "message": "Please add my coaching institute for student benefits.",
+
+    "status": "Pending",
+
+    "requestedAt": "2026-08-01T10:30:00Z",
+
+    "review": {
+      "approved": false,
+      "reviewedAt": null,
+      "adminNote": ""
+    }
+  },
+
+  {
+    "requestId": "REQ-INS-0002",
+
+    "studentId": "STD-1002",
+
+    "studentName": "Priya Sharma",
+    "email": "priya@example.com",
+    "mobile": "9876543211",
+
+    "institute": {
+      "name": "XYZ Academy",
+      "city": "Delhi",
+      "state": "Delhi"
+    },
+
+    "message": "I want to get benefits available for my institute.",
+
+    "status": "Approved",
+
+    "requestedAt": "2026-08-02T09:15:00Z",
+
+    "review": {
+      "approved": true,
+      "reviewedAt": "2026-08-03T11:00:00Z",
+      "adminNote": "Institute added successfully."
+    }
+  }
+]

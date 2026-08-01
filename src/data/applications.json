@@ -1,0 +1,121 @@
+[
+  {
+    "applicationId": "APP-2026-000001",
+    "benefitCode": "HPB-2026-000001",
+
+    "studentId": "STD-1001",
+    "benefitId": "benefit-001",
+
+    "status": "Approved",
+
+    "appliedAt": "2026-08-01T10:30:00Z",
+    "approvedAt": "2026-08-01T10:35:00Z",
+
+    "pdfUrl": "/benefit-passes/HPB-2026-000001.pdf",
+
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-08-01T10:35:00Z"
+    }
+  },
+
+  {
+    "applicationId": "APP-2026-000002",
+    "benefitCode": "HPB-2026-000002",
+
+    "studentId": "STD-1002",
+    "benefitId": "benefit-002",
+
+    "status": "Pending",
+
+    "appliedAt": "2026-08-02T09:20:00Z",
+    "approvedAt": null,
+
+    "pdfUrl": null,
+
+    "verification": {
+      "verified": false,
+      "verifiedAt": null
+    }
+  }
+][
+  {
+    "applicationId": "APP-2026-000001",
+    "benefitCode": "HPB-2026-000001",
+
+    "studentId": "STD-1001",
+    "benefitId": "benefit-001",
+
+    "status": "Approved",
+
+    "appliedAt": "2026-08-01T10:30:00Z",
+    "approvedAt": "2026-08-01T10:35:00Z",
+
+    "pdfUrl": "/benefit-passes/HPB-2026-000001.pdf",
+
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-08-01T10:35:00Z"
+    }
+  },
+
+  {
+    "applicationId": "APP-2026-000002",
+    "benefitCode": "HPB-2026-000002",
+
+    "studentId": "STD-1002",
+    "benefitId": "benefit-002",
+
+    "status": "Pending",
+
+    "appliedAt": "2026-08-02T09:20:00Z",
+    "approvedAt": null,
+
+    "pdfUrl": null,
+
+    "verification": {
+      "verified": false,
+      "verifiedAt": null
+    }
+  }
+][
+  {
+    "applicationId": "APP-2026-000001",
+    "benefitCode": "HPB-2026-000001",
+
+    "studentId": "STD-1001",
+    "benefitId": "benefit-001",
+
+    "status": "Approved",
+
+    "appliedAt": "2026-08-01T10:30:00Z",
+    "approvedAt": "2026-08-01T10:35:00Z",
+
+    "pdfUrl": "/benefit-passes/HPB-2026-000001.pdf",
+
+    "verification": {
+      "verified": true,
+      "verifiedAt": "2026-08-01T10:35:00Z"
+    }
+  },
+
+  {
+    "applicationId": "APP-2026-000002",
+    "benefitCode": "HPB-2026-000002",
+
+    "studentId": "STD-1002",
+    "benefitId": "benefit-002",
+
+    "status": "Pending",
+
+    "appliedAt": "2026-08-02T09:20:00Z",
+    "approvedAt": null,
+
+    "pdfUrl": null,
+
+    "verification": {
+      "verified": false,
+      "verifiedAt": null
+    }
+  }
+]

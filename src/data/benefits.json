@@ -1,0 +1,124 @@
+[
+  {
+    "id": "benefit-001",
+    "title": "15% Tuition Fee Discount",
+    "slug": "15-percent-tuition-fee-discount",
+    "category": "Education",
+    "type": "Discount",
+    "status": "Active",
+    "featured": true,
+
+    "institute": {
+      "name": "ABC Coaching Institute",
+      "city": "Patna",
+      "state": "Bihar"
+    },
+
+    "certificate": "Participation Certificate",
+
+    "discount": {
+      "type": "Percentage",
+      "value": 15
+    },
+
+    "validity": {
+      "startDate": "2026-08-01",
+      "endDate": "2026-12-31"
+    },
+
+    "eligibility": [
+      "Must have a Haproven Student ID",
+      "Student profile must be completed",
+      "Benefit can be claimed only once"
+    ],
+
+    "requiredDocuments": [
+      "Student ID",
+      "Haproven ID"
+    ],
+
+    "description": "Get a 15% tuition fee discount at ABC Coaching through the Haproven Student Benefits Program.",
+
+    "applyUrl": "/benefits/apply?id=benefit-001"
+  },
+
+  {
+    "id": "benefit-002",
+    "title": "Free AI Workshop",
+    "slug": "free-ai-workshop",
+    "category": "Workshop",
+    "type": "Workshop",
+    "status": "Upcoming",
+    "featured": true,
+
+    "institute": {
+      "name": "Haproven Learning",
+      "city": "Online",
+      "state": "India"
+    },
+
+    "certificate": "Workshop Certificate",
+
+    "discount": {
+      "type": "Free",
+      "value": 100
+    },
+
+    "validity": {
+      "startDate": "2026-09-10",
+      "endDate": "2026-09-10"
+    },
+
+    "eligibility": [
+      "Registered Haproven Student"
+    ],
+
+    "requiredDocuments": [
+      "Haproven ID"
+    ],
+
+    "description": "Join the AI Workshop and receive a verified participation certificate.",
+
+    "applyUrl": "/benefits/apply?id=benefit-002"
+  },
+
+  {
+    "id": "benefit-003",
+    "title": "Free Admission Test",
+    "slug": "free-admission-test",
+    "category": "Admission",
+    "type": "Offer",
+    "status": "Coming Soon",
+    "featured": false,
+
+    "institute": {
+      "name": "XYZ Academy",
+      "city": "Delhi",
+      "state": "Delhi"
+    },
+
+    "certificate": "Admission Eligibility",
+
+    "discount": {
+      "type": "Free",
+      "value": 100
+    },
+
+    "validity": {
+      "startDate": "2026-10-01",
+      "endDate": "2026-11-30"
+    },
+
+    "eligibility": [
+      "Students of Class 10–12"
+    ],
+
+    "requiredDocuments": [
+      "School ID"
+    ],
+
+    "description": "Take the admission test free of cost through the Haproven Benefits Program.",
+
+    "applyUrl": "/benefits/apply?id=benefit-003"
+  }
+]

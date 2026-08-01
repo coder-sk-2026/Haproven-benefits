@@ -1,0 +1,80 @@
+[
+  {
+    "id": "INS-001",
+
+    "name": "ABC Coaching Institute",
+
+    "type": "Coaching",
+
+    "category": [
+      "Technology",
+      "Programming",
+      "Skill Development"
+    ],
+
+    "location": {
+      "city": "Patna",
+      "state": "Bihar",
+      "country": "India"
+    },
+
+    "contact": {
+      "email": "abc@example.com",
+      "phone": "9876543210"
+    },
+
+    "partnership": {
+      "status": "Approved",
+      "joinedDate": "2026-07-20",
+      "validTill": "2027-07-20"
+    },
+
+    "benefitsAvailable": [
+      "benefit-001",
+      "benefit-002"
+    ],
+
+    "studentCount": 150,
+
+    "status": "Active"
+  },
+
+
+  {
+    "id": "INS-002",
+
+    "name": "XYZ Academy",
+
+    "type": "College",
+
+    "category": [
+      "Education",
+      "Career"
+    ],
+
+    "location": {
+      "city": "Delhi",
+      "state": "Delhi",
+      "country": "India"
+    },
+
+    "contact": {
+      "email": "xyz@example.com",
+      "phone": "9876543211"
+    },
+
+    "partnership": {
+      "status": "Approved",
+      "joinedDate": "2026-07-25",
+      "validTill": "2027-07-25"
+    },
+
+    "benefitsAvailable": [
+      "benefit-003"
+    ],
+
+    "studentCount": 300,
+
+    "status": "Active"
+  }
+]

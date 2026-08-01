@@ -1,0 +1,57 @@
+[
+  {
+    "id": "STD-1001",
+    "haprovenId": "HP-2026-000001",
+    "fullName": "Rahul Kumar",
+    "email": "rahul@example.com",
+    "mobile": "9876543210",
+
+    "studentType": "College",
+    "course": "BCA",
+    "year": "2nd Year",
+
+    "institute": {
+      "id": "INS-001",
+      "name": "ABC Coaching Institute",
+      "city": "Patna",
+      "state": "Bihar"
+    },
+
+    "profileCompleted": true,
+    "emailVerified": true,
+    "status": "Active",
+
+    "joinedDate": "2026-07-15",
+
+    "appliedBenefits": [
+      "benefit-001"
+    ]
+  },
+
+  {
+    "id": "STD-1002",
+    "haprovenId": "HP-2026-000002",
+    "fullName": "Priya Sharma",
+    "email": "priya@example.com",
+    "mobile": "9876543211",
+
+    "studentType": "School",
+    "course": "Class 12",
+    "year": "2026",
+
+    "institute": {
+      "id": "INS-002",
+      "name": "XYZ Academy",
+      "city": "Delhi",
+      "state": "Delhi"
+    },
+
+    "profileCompleted": true,
+    "emailVerified": true,
+    "status": "Active",
+
+    "joinedDate": "2026-07-20",
+
+    "appliedBenefits": []
+  }
+]
